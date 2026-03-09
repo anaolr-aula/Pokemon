@@ -49,7 +49,7 @@ sistema-pokemon/
 ### 1️ Clone o repositório
 
 
-git clone https://github.com/seu-usuario/pokeapi-project.git
+git clone (https://github.com/anaolr-aula/Pokemon)
 
 ### 2 Execute
 
